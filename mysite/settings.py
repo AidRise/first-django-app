@@ -25,7 +25,7 @@ SECRET_KEY = 'zt$wp_#67s#d++8i+y-qk48#@ctvi(-e-2oo@p!nkg_mu2md9q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
